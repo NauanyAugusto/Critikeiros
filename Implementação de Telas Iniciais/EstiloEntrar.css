@@ -1,0 +1,149 @@
+.caixaEntrar{
+    position: relative;
+    top: 30px;
+    left: 150px;    
+}
+#entrarCad{
+    position: relative;
+    top: 35px;
+    left: -3px;
+}
+#usuario{
+    position: relative;
+    top: 40px;
+    left: -50px;
+}
+#senha{
+    position: relative;
+    top: 80px;
+    left: -218px;    
+}
+.esqueceuSenha{
+    position: relative;
+    top: 37px;
+    left: -25px; 
+    font-weight: 500;
+    font-size: 12px;
+    color: #0000FF;
+    text-decoration: #0000ff;
+}
+.esqueceuSenha:link, .esqueceuSenha:visited{
+    color: #0000ff;
+}
+.esqueceuSenha:hover{
+    text-decoration: underline;
+}
+.esqueceSenha:active{
+    color: #0000ff;
+}
+#buttonEntrar{
+    background-color: #FFE600;
+    position: relative;
+    top: 37px;
+    left: 60px; 
+    border-radius: 5px;
+}
+#barraCadHor{
+    position: relative;
+    top: 65px;
+    left: -390px;
+    width: 320px; 
+    border: 0;
+	border-top: 1px solid #000000;
+}
+#entreCom{
+    position: relative;
+    top: 75px;
+    left: -2px;
+}
+.face{
+    position: absolute;
+    top: 320px;
+    left: -50px;
+    border: 2px solid;
+    width: 200px;
+    height: 30px;
+}
+#faceImg{
+    max-width:110px;
+    max-height:30px;
+    width: auto;
+    height: auto;
+    position: relative;
+    left: -5px;
+}
+#comFace{
+    font-weight: 500;
+    position: relative;
+    left: 50px;
+    top: -50px;
+}
+.google{
+    position: absolute;
+    top: 370px;
+    left: -50px;
+    border: 2px solid;
+    width: 200px;
+    height: 30px;
+}
+#googleImg{
+    max-width:110px;
+    max-height:30px;
+    width: auto;
+    height: auto;
+    position: relative;
+}
+#comGoogle{
+    font-weight: 500;
+    position: relative;
+    left: 50px;
+    top: -50px;
+}
+.apple{
+    position: absolute;
+    top: 420px;
+    left: -50px;
+    border: 2px solid;
+    width: 200px;
+    height: 30px;
+}
+#appleImg{
+    max-width:110px;
+    max-height:30px;
+    width: auto;
+    height: auto;
+    position: relative;
+}
+#comApple{
+    font-weight: 500;
+    position: relative;
+    left: 50px;
+    top: -50px;
+}
+#linhaverticalEntrar{
+    color: #000000;
+    height: 500px;
+    width: 1px;
+    top: -190px;
+    left: -120px;
+    position: relative;
+    border: 0;
+	border-top: 500px solid #000000;
+}
+
+#npossuiConta{
+    position: absolute;
+    top: 170px;
+    left: 450px;
+    font-weight: 500;
+}
+#buttonCriar{
+    background-color: #FFE600;
+    position: absolute;
+    top: 220px;
+    left: 450px;
+    width: 160px;
+    height: 43px;
+    font-weight: 500;
+    font-size: 24px;
+}

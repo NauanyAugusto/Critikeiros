@@ -1,0 +1,98 @@
+#suaCrit{
+    color: #FFE600;
+    font-weight: 600;
+    top: 160px;
+    left: 160px;
+    position: absolute;
+}
+.imgCrit{
+    max-width:2500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+    position: absolute;
+    left: 160px;
+    top: 235px;
+}
+.titulo{
+    color: #FFFFFF;
+    font-weight: 550;
+    top: 180px;
+    left: 580px;
+    position: absolute;
+}
+.genero{
+    background-color: #C4C4C4;
+    text-align: center;
+    width: 70px;
+    border: 1px;
+    border-radius: 5px;
+    position: absolute; 
+    font-weight: lighter;
+}
+#acao{
+    top: 254px;
+    left: 580px;      
+}
+#aventura{
+    top: 254px;
+    left: 670px;
+
+}
+#fantasia{
+    top: 254px;
+    left: 760px;
+}
+#tempo{
+    background-color: yellow;
+    top: 254px;    
+    left: 850px;
+}
+.resenha{
+    position: absolute;
+    top: 354px;    
+    left: 580px;
+    height: 252px;
+    width: 511px;
+}
+#darNota{
+    position: absolute;
+    font-weight: 500;
+    top: 260px;    
+    left: 580px;
+    color: #FFFFFF;
+    font-size: 24px;
+    text-align: start;
+}
+.estrela{
+    max-width:180px;
+    max-height:40px;
+    width: auto;
+    height: auto;
+}
+#estrela1{
+    left: 680px;
+    top: 290px;
+    position: absolute;
+}
+#estrela2{
+    left: 720px;
+    top: 290px;
+    position: absolute;
+}
+#estrela3{
+    left: 760px;
+    top: 290px;
+    position: absolute;
+}
+#estrela4{
+    left: 800px;
+    top: 290px;
+    position: absolute;
+}
+#estrela5{
+    left: 840px;
+    top: 290px;
+    position: absolute;
+}
+

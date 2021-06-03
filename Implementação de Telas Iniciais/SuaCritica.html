@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="UTF-8" />
+    <title>SUA CRITICA - Critikeiros</title>
+    <link rel="stylesheet" href="Estilo.css">
+    <link rel="stylesheet" href="EstiloCritica.css">
+    <script src="Estrela.js"></script>
+</head>
+<body style="background-color:black">
+
+    <div class="topo">
+        <h1 id="logo"><a href="Home.html" id="linkLogo">Critikeiros</a></h1>
+        <div id="divBusca">
+            <input type="text" id="textoBusca" placeholder="Procurar">
+            <img src="img/lupa.png" id="imgBusca"/> 
+        </div>
+        <h3 class="topico"><a href="Home.html" id="home">Home</a></h3>
+        <h3 class="topico"><a href="Cadastrar.html" id="cadastrar">Cadastrar</a></h3>
+        <h3 class="topico"><a href="Entrar.html" id=entrar>Entrar</a></h3>
+        <div class="classificacao">
+            <h4 class="categoria"><a href="Filme.html" id="filme">Filme</a></h4>
+            <h4 class="categoria"><a href="Series.html" id="series">Séries</a></h4>
+            <h4 class="categoria"><a href="Programas.html" id="programas">Programa de tv</a></h4>
+            <h4 class="categoria"><a href="MinhaLista.html" id="minha">Minha lista</a></h4>
+        </div>    
+    </div>
+
+    <div>
+        <h2 id="suaCrit">Sua crítica</h2>
+        <img src="img/monsterhunter.jpg" class="imgCrit"/>
+        <h2 class="titulo">Monster Hunter</h2>    
+
+        <div class="genero" id="acao">Ação</div>
+        <div class="genero" id="aventura">Aventura</div>
+        <div class="genero" id="fantasia">Fantasia</div>
+        <div class="genero" id="tempo">1h 12m</div>
+        <h5 id="darNota">Dar nota:</h5>
+        <img class="estrela" id="estrela1"src="img/estrelavazia.png" onmouseover="estreEn1();" onmouseout="estreFo1();" onclick="estreCl1();">
+        <img src="img/estrelavazia.png" class="estrela" id="estrela2" onmouseover="estreEn2();" onmouseout="estreFo2();" onclick="estreCl2();">
+        <img src="img/estrelavazia.png" class="estrela" id="estrela3" onmouseover="estreEn3();" onmouseout="estreFo3();" onclick="estreCl3();">
+        <img src="img/estrelavazia.png" class="estrela" id="estrela4" onmouseover="estreEn4();" onmouseout="estreFo4();" onclick="estreCl4();">
+        <img src="img/estrelavazia.png" class="estrela" id="estrela5" onmouseover="estreEn5();" onmouseout="estreFo5();" onclick="estreCl5();">
+        <textarea class="resenha"  placeholder="Escreva sua resenha... "></textarea>
+
+    </div>
+
+</body>
+</html>
