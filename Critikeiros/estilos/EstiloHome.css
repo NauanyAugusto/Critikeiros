@@ -1,0 +1,153 @@
+.recente{
+    color: #FFE600;
+    font-weight: 600;
+    top: 160px;
+    left: 160px;
+    position: absolute;
+}
+.imgRecente{
+    max-width:2500px;
+    max-height:500px;
+    width: auto;
+    height: auto;
+    position: relative;
+    left: 160px;
+    top: 235px;
+}
+.titulo{
+    color: #FFFFFF;
+    font-weight: 550;
+    top: 180px;
+    left: 580px;
+    position: absolute;
+}
+.genero{
+    background-color: #C4C4C4;
+    text-align: center;
+    width: 70px;
+    border: 1px;
+    border-radius: 5px;
+    position: relative; 
+    font-weight: lighter;
+}
+#acao{
+    top: -250px;
+    left: 580px;      
+}
+#aventura{
+    top: -269px;
+    left: 670px;
+
+}
+#fantasia{
+    top: -288px;
+    left: 760px;
+}
+#tempo{
+    background-color: yellow;
+    top: -307px;    
+    left: 850px;
+}
+
+.sinopse{
+    position: relative;
+    color: #FFFFFF;
+    left: 580px;
+    top: -300px;
+}
+#imdbImg{  
+    max-width:200px;
+    max-height:50px;
+
+    left: 580px;
+    top: 470px;
+    border: 1px;
+    border-radius: 5px;
+    position: absolute;
+}
+.notaImdb{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-weight: 500;
+    left: 700px;
+    top: 450px;
+}
+.adicionar{
+    background-color: #2C2828;
+    color: #FFFFFF;
+    position: absolute;
+    left: 830px;
+    top: 480px;
+    width:200px;
+    height:25px;
+}
+#rottenImg{
+    max-width:250px;
+    max-height:75px;
+    width: auto;
+    height: auto;
+    left: 600px;
+    top: 525px; 
+    position: absolute;
+}
+#notaRotten{
+    position: absolute;
+    color: #FFFFFF;
+    font-size: 28px;
+    font-weight: 500;
+    left: 720px;
+    top: 525px;
+    width:200px;
+    height:25px;
+}
+#ck{
+    background-color: #FFFFFF;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    width: 108px;
+    height: 50px;
+    border: 1px;
+    border-radius: 5px;
+    left: 580px;
+    top: 620px;
+    position: absolute;
+}
+.estrela{
+    max-width:200px;
+    max-height:50px;
+    width: auto;
+    height: auto;
+}
+#estrela1{
+    left: 700px;
+    top: 618px;
+    position: absolute;
+}
+#estrela2{
+    left: 750px;
+    top: 618px;
+    position: absolute;
+}
+#estrela3{
+    left: 800px;
+    top: 618px;
+    position: absolute;
+}
+#estrela4{
+    left: 850px;
+    top: 618px;
+    position: absolute;
+}
+#estrela5{
+    left: 900px;
+    top: 618px;
+    position: absolute;
+}
+.staff{
+    color: #FFFFFF;
+    left: 1150px;
+    top: 240px;
+    position: absolute;
+}

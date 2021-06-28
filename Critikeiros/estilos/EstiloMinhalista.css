@@ -1,0 +1,16 @@
+#minhaLista{
+    position: relative;
+    top: 135px;
+    left: 363px;
+}
+#textoAdicione{
+    position: relative;
+    top: 135px;
+    left: -25px;
+    text-align: center;
+}
+#linhaAdicione{
+    position: relative;
+    top: 135px;
+    width: 700px;
+}
